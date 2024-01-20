@@ -12,7 +12,7 @@ Topics:
     copy paste the codes in the
     Line 17 - 19
     // Paste Your Logic
-  
+
   ** Optional **
   Run a JS file VSCode: ( Node should be installed )
     node q1.js
