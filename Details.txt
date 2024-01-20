@@ -1,0 +1,66 @@
+
+Topics:
+
+  Preparation for CodeKata:
+
+    https://www.guvi.in/ide/
+
+    https://www.guvi.in/code-kata/
+
+  
+  Guvi IDE:
+    copy paste the codes in the
+    Line 17 - 19
+    // Paste Your Logic
+  
+  ** Optional **
+  Run a JS file VSCode: ( Node should be installed )
+    node q1.js
+
+  simple functions
+
+  number methods:
+    toFixed
+    Math.ceil(1.2) --> 2
+    Math.floor(1.2) --> 1
+
+  Operators:
+    Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 (remainder) )
+    Assignment: =
+    compariason: >, <, >=, <=, !=, ==, === ( check for type as well ) // results in boolean value
+    conditional:  &&, ||, ? with else operation
+    Boolean: true or false, 0 or 1, undefined, null
+
+  looping, conditions, simple problems
+
+    looping: it is a process of repeating a block statements again and again
+
+    for, while, do while -> looping statements
+
+    concepts in looping
+      initialization, termination condition, inc/drec
+
+      how many times or when to stop the looping
+
+Next Session:
+  iterating/looping thorugh a array or object:
+      Array:
+        [1, 2, 3, 4, 5]
+
+      if else -> conditional executing conditionally
+      switch-case
+
+  Logical Bitwise: &(and), |(or), !(not)
+  String: usefull function
+    split: // split --> splits the string with a delimiter( with a particular character )
+    toLowerCase
+    toUpperCase
+
+Questions from Candidate:
+
+  1. 'FSD-56-WE-T' --> ['FS', 'D-', '56', '-W', 'E-', 'T'];
+
+Task 2024-01-20:
+  Complete all the 10 questions of Input/Output
+
+  Any doubts please clarify tomorrow
